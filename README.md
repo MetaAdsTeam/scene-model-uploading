@@ -23,7 +23,7 @@ This document is an instruction on how to create a scene for Unity.
 * Upload Preview Image
 
 > To get the Add space UUID, you need to create a scene in Unity Hub.
-## 4. Downloading Unity Hub and creating new account
+## 3. Downloading Unity Hub and creating new account
 * Download [Unity Hub](https://unity.com/download) from official site 
 * Go to [Unity ID](https://id.unity.com/en/conversations/9436941f-b52e-4612-9ba9-f515d1fe1b13009f) site and create new account
 
@@ -59,7 +59,7 @@ This document is an instruction on how to create a scene for Unity.
 * Select the project location
 * Click on Create project
 
-## 6. Working in Unity Hub Editor
+## 4. Working in Unity Hub Editor
 ### Creating the project
 ![Image](./media/11.png)
 ![Image](./media/12.png)
@@ -135,9 +135,8 @@ This document is an instruction on how to create a scene for Unity.
 
 > The scene with the MetaAds screen is ready!
 
-## Completing the creation of the scene
-### 
-
+## 5. Completing the creation of the scene
+ 
 ![Image](./media/25.png)
 
 * Click on the MetaAds screen
@@ -153,4 +152,4 @@ This document is an instruction on how to create a scene for Unity.
 
 ![Image](./media/27.png)
 
-<u>EXPECTED RESULT</u>: The created Ad Space will appear on the My Ad Spaces tab.
+<u>EXPECTED STATE</u>: The created Unity Ad Space  will appear on the My Ad Spaces tab. You can start campaigns. Available for Unity - picture creatives, video creatives, stream creatives.    
