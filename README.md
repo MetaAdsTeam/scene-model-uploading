@@ -51,7 +51,7 @@ Experiment with different values and options to achieve the desired level of pol
 
 Usually these steps are enough to significantly reduce the volume of the model.
 
-> Scene will appear automatically on the *MetaAds* site in the *My Scenes* section if at least 1 add space is installed on it 
+> Scene will appear automatically on the *MetaAds* site in the *My Scenes* section if at least 1 add space is installed on it.
 
 ## 2. Overview *My Scenes* section on **MetaAds** and editing created scene
 
