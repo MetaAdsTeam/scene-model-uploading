@@ -51,11 +51,11 @@ Experiment with different values and options to achieve the desired level of pol
 
 Usually these steps are enough to significantly reduce the volume of the model.
 
-> Your scene should already be displayed on the *MetaAds* site in the *My Scenes* section.
+> Scene will appear automatically on the *MetaAds* site in the *My Scenes* section if at least 1 add space is installed on it 
 
 ## 2. Overview *My Scenes* section on **MetaAds** and editing created scene
 
-* Go to the [**MetaAds** site](https://metaads.team/main/)
+* Go to the [**MetaAds**](https://metaads.team/main/)
 * Click on *Landowner* (1)
 * Click on *My Scenes* (2)
 * Click on 6 dots on your scene (3)
