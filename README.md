@@ -10,8 +10,7 @@ This document is an instruction on how to create a scene for *Unity*.
 * Click on *Add Ad Space* (1)
 * Click on select metaverse (2)
 * Select *Voxels* metaverse (3)
-* Click on *Download* (4)
-    * Save file on PC
+* Click on *Download* and save file on PC(4)
 * Click on Next (5)
 
 ![Image](./media/1.png)   ![Image](./media/2.png)  ![Image](./media/3.png)
