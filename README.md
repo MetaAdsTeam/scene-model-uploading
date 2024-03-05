@@ -147,14 +147,14 @@ This document is an instruction on how to create a scene for *Unity*.
 
 > Go back to "Create New Ad Space" pop up on Meta Ads website.
 
-* Enter Name (1)
+* Enter *Name* (1)
 * Paste *Ad Space UUID* (2)
-* Enter Exernal target link (3) (is optional)
-* Enter *description* (4)
-* Enter *jump URL* (5) (is optional)
-* Upload *Preview Image* (6)
-* Upload *Default Ad Image* (7) (is optional)
-* You can choose to enable moderation or not (8) (is optional)
+* Enter *External target link* (Default link when clicking on the screen and it is optional) (3)
+* Enter *Description* (4)
+* Enter *jump URL* (Link to a scene in the metaverse and it is optional) (5)
+* Upload *Preview Image* (This is the image that will be displayed on the site with the created Ad Space) (6)
+* Upload *Default Ad Image* (This is the image that will be shown on the screen by default, if it is not there, then it will be shown *Meta Ads* icon and it is optional) (7)
+* You can choose to enable *moderation* or not (8) (is optional)
 * Click on *Save* (9)
 
 ![Image](./media/4.png) 
